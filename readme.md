@@ -68,9 +68,9 @@ npm start
 
 ## ScreenShots 
 - Player O wins the game.
-<img src="screenshots/img1.png" alt="Screenshot" width="500" />
+<img src="./screenshots/img1.png" alt="Screenshot" width="500" />
 - Tie Game 
-<img src="screenshots/img2.png" alt="Screenshot" width="500" />
+<img src="./screenshots/img2.png" alt="Screenshot" width="500" />
 
 
 
