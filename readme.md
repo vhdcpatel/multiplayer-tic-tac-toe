@@ -68,7 +68,7 @@ npm start
 
 ## ScreenShots 
 - Player O wins the game.
-<!-- <img src="./screenshots/img1.png" alt="Screenshot-1" width="500" /> -->
+<img src="./screenshots/img1.png" alt="Screenshot-1" width="500" /> 
 
 ![](./screenshots/img1.png) 
 
@@ -76,7 +76,7 @@ npm start
 
 ![](./screenshots/img2.png) 
 
-<!-- <img src="./screenshots/img2.png" alt="Screenshot-2" width="500" /> -->
+<img src="./screenshots/img2.png" alt="Screenshot-2" width="500" />
 
 
 
