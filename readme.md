@@ -46,10 +46,10 @@ npm start
 
 ## Usage
 
-- Open your browser and navigate to http://localhost:5173 and into other browser for same link.
-- Then signup and login into game.
-- Give user name of other player and join the game.
-- Now enjoy the playing and chating with each other. 
+- Open your browser and navigate to http://localhost:5173 and into another browser for the same link.
+- Then signup and login into the game.
+- Give the user name of the other player and join the game.
+- Now enjoy playing and chatting with each other. 
 
 ## How to Play
 - Players take turns clicking on the empty squares on the game board to make their moves.
@@ -61,16 +61,16 @@ npm start
 - **Express**: For Handing backend requests.
 - **Stream Chat API**: Real-time chat API for building interactive chat applications.
 - **Universal cookie**: For storing user login credentials in the browser session storage.
-- **Axios**: To make api requests from the backend. 
+- **Axios**: To make API requests from the backend. 
 - **bcrypt**: To encrypt the user password info.
-- **nodemon**: To run backend server. 
-- **dotenv**: To to access api key from .env file
+- **nodemon**: To run the backend server. 
+- **dotenv**: To access API key from .env file
 
 ## ScreenShots 
-- Player O win the game.
-<img src="./screenshots/img1.png" alt="Screenshot" width="500" />
+- Player O wins the game.
+<img src="screenshots/img1.png" alt="Screenshot" width="500" />
 - Tie Game 
-<img src="./screenshots/img2.png" alt="Screenshot" width="500" />
+<img src="screenshots/img2.png" alt="Screenshot" width="500" />
 
 
 
